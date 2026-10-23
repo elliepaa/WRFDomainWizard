@@ -25936,7 +25936,7 @@
       weight: 2,
       color: '#FF0000',
       fillColor: '#FF0000',
-      fillOpacity: 0.2,
+      fillOpacity: 0,
       className: 'wrf-domain-grid'
     },
     // domain object containing grid
